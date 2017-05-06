@@ -22,3 +22,17 @@ If you use this Char Array Manipulator(Cam) ,Performance may be higher.
 
 this is in progress so not complete.　
 # Don't Miss This!!
+
+The following example is normally use of Cam
+
+'''java
+ char str[] =new char[50];
+        Cam.clear(str);
+        Cam.numset(str,-12);
+        System.out.println(str);
+        
+'''
+
+The result is follow
+###-12
+
