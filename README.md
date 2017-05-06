@@ -25,14 +25,14 @@ this is in progress so not complete.　
 
 The following example is normally use of Cam
 
-'''java
+``` java
  char str[] =new char[50];
         Cam.clear(str);
         Cam.numset(str,-12);
         System.out.println(str);
         
-'''
+```
 
 The result is follow
-###-12
+### -12
 
